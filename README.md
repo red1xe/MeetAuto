@@ -1,8 +1,8 @@
-## MeetAuto - Meeting Automation Tool :robot: :calendar:
+# MeetAuto - Meeting Automation Tool :robot: :calendar:
 
 MeetAuto is a Streamlit web application that allows you to manage and automate your meetings. You can add meetings along with their details, and MeetAuto will help you keep track of them.
 
-# Table of Contents
+## Table of Contents
 
 1. [Introduction](#introduction)
 2. [Getting Started](#getting-started)
