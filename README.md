@@ -40,13 +40,13 @@ MeetAuto requires the following dependencies:
 
 ## Usage
 
-Run the app.py file to start the Streamlit app.
-The application will open in your default web browser.
-Add your meetings by providing the necessary details in the input widgets.
-Click the "Add Meeting" button to save the meeting details.
-Your added meetings will be displayed in a table below the input widgets.
-To delete a meeting, click the "Delete" button next to the corresponding meeting in the table.
-Finally, run the main.py file to start the automation script.
+- Run the app.py file to start the Streamlit app.
+- The application will open in your default web browser.
+- Add your meetings by providing the necessary details in the input widgets.
+- Click the "Add Meeting" button to save the meeting details.
+- Your added meetings will be displayed in a table below the input widgets.
+- To delete a meeting, click the "Delete" button next to the corresponding meeting in the table.
+- Finally, run the main.py file to start the automation script.
 
 ## Features
 
@@ -57,14 +57,14 @@ Finally, run the main.py file to start the automation script.
 
 ## Contributing
 
-Contributions are welcome! If you find any issues or want to enhance the application, feel free to create a pull request.
+- Contributions are welcome! If you find any issues or want to enhance the application, feel free to create a pull request.
 
-Fork the repository.
-Create a new branch for your feature or bug fix.
-Make changes and commit them with descriptive commit messages.
-Push your changes to your fork.
-Create a pull request against the main repository.
+- Fork the repository.
+- Create a new branch for your feature or bug fix.
+- Make changes and commit them with descriptive commit messages.
+- Push your changes to your fork.
+- Create a pull request against the main repository.
 
 ## License
 
-The code in this repository is licensed under the MIT License. Feel free to use and modify the code as per the terms of the license.
+- The code in this repository is licensed under the MIT License. Feel free to use and modify the code as per the terms of the license.
